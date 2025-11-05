@@ -65,6 +65,9 @@
 12. [陀螺仪](https://github.com/mwjuan/mobile_gps_gyroscope_demo)
 13. [webpack学习](https://github.com/mwjuan/webpack_demo)
 
+## Java
+1. [todo练习](https://github.com/mwjuan/JavaToDo_Demo)
+
 ## Others
 1. [tdd练习1](https://github.com/mwjuan/tdd-taxi-js)
 2. [tdd练习2](https://github.com/mwjuan/jiker-tdd)
