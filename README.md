@@ -64,6 +64,7 @@
 11. [React状态组件学习](https://github.com/mwjuan/hook_demo)
 12. [陀螺仪](https://github.com/mwjuan/mobile_gps_gyroscope_demo)
 13. [webpack学习](https://github.com/mwjuan/webpack_demo)
+14. [前端白屏处理](https://github.com/mwjuan/ErrorBoundary_demo)
 
 ## Java
 1. [todo练习](https://github.com/mwjuan/JavaToDo_Demo)
