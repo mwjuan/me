@@ -42,7 +42,7 @@
 ## 3D
 1. [3d全景图](https://github.com/mwjuan/viewer_3d)
 2. [webGL教程源码](https://github.com/mwjuan/webGL)
-3. [react-three/fiber学习]https://github.com/mwjuan/demo_3d
+3. [react-three/fiber学习](https://github.com/mwjuan/demo_3d)
 
 ## Node
 1. [node rabbitmq学习](https://github.com/mwjuan/rabbitmq_demo)
