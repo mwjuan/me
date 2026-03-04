@@ -1,4 +1,6 @@
 # 目录
+## Agent
+1. [集成Qwen大模型](https://github.com/mwjuan/demo_agent)
 ## 地图
 1. [mapbox学习](https://github.com/mwjuan/mapbox)
 2. [百度地图检索位置](https://github.com/mwjuan/baidu_map)
